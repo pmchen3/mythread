@@ -122,7 +122,6 @@ void MyThreadYield(void)
 // Join with a child thread
 int MyThreadJoin(MyThread thread)
 {
-    
     _MyThread *t = (_MyThread*) thread;
     // If child has already exited.
     if (t->exit) {
