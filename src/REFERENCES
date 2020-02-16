@@ -1,0 +1,25 @@
+References for this project
+
+Swap context example
+http://linux.die.net/man/3/swapcontext
+
+User thread example using context routines with queue functions
+https://swtch.com/libtask/
+http://stackoverflow.com/questions/9145321/implementing-a-user-level-threads-package
+
+Context info and returns
+http://www.gnu.org/software/libc/manual/html_node/System-V-contexts.html
+
+Signal stack info
+http://www.gnu.org/software/libc/manual/html_node/Signal-Stack.html#Signal-Stack
+
+Wiki page for context
+https://en.wikipedia.org/wiki/Setcontext
+
+Makefile
+http://stackoverflow.com/questions/2734719/how-to-compile-a-static-library-in-linux
+http://stackoverflow.com/questions/11344547/how-do-i-compile-a-static-library
+http://stackoverflow.com/questions/11093600/when-making-a-library-on-unix-is-anything-but-ar-rcs-necessary
+
+Student
+Worked with Siddhartha Kollipara to better understand the task, strategies, and troubleshooting.
